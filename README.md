@@ -36,4 +36,4 @@ python app.py
 ## 模型下载
 
 训练完成的权重文件：
-**[📥 点击下载 best.pt]([https://drive.google.com/file/d/1jj226H1FvY-KoIPanW59lRuc3Xh0RifP/view?usp=sharing])**
+**[📥 点击下载 best.pt](https://drive.google.com/file/d/1jj226H1FvY-KoIPanW59lRuc3Xh0RifP/view?usp=sharing)**
