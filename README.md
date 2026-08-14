@@ -31,7 +31,7 @@
 ```bash
 pip install ultralytics gradio opencv-python
 python app.py
-```bash
+```
 
 ## 模型下载
 
