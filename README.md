@@ -15,9 +15,9 @@
 - 多类别车辆识别（car、truck、bus 等）
 
 ### 效果展示
-![图片分割效果]![Uploading demo_image.png…]()
+![图片分割效果](demo_image.png)
 
-![视频检测效果]![Uploading demo_video.png…]()
+![视频检测效果](demo_video.png)
 
 
 ## 技术栈
